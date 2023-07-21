@@ -13,3 +13,6 @@ USER nginx
 
 # docker build . -t my-app
 # docker run -d -p 8080:80 my-app
+
+
+#https://bojnansky.com/running-angular-tests-with-github-actions/
